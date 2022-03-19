@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2>Ciao, my name is Kathleen!</h2>
+<h3>Welcome to my page!</h3>
 
 - 🔭 I’m currently working on PancakeSwap Clone as project for Develhope
 - 🌱 I’m currently learning Angular and RxJS
