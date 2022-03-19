@@ -1,7 +1,5 @@
 <h2>Ciao, my name is Kathleen!</h2>
-<h3>Welcome to my page!</h3>
-
-<img src="https://i.imgur.com/ISmOc5X.gif" alt="Kathleen catiliant front-end developer">
+![alt text](https://i.imgur.com/ISmOc5X.gif)
 
 - 🔭 I’m currently working on PancakeSwap Clone as project for Develhope
 - 🌱 I’m currently learning Angular and RxJS
