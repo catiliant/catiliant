@@ -1,7 +1,7 @@
 <h2>Ciao, my name is Kathleen!</h2>
 <h3>Welcome to my page!</h3>
 
-<img src="https://i.imgur.com/ISmOc5X.gif">
+<blockquote class="imgur-embed-pub" lang="en" data-id="ISmOc5X"><a href="https://imgur.com/ISmOc5X">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 - 🔭 I’m currently working on PancakeSwap Clone as project for Develhope
 - 🌱 I’m currently learning Angular and RxJS
