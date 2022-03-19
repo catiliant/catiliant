@@ -1,6 +1,6 @@
 <h2>Ciao, my name is Kathleen!</h2>
 
-
+![](https://github.com/catiliant/githubh0p.gif)
 - 🔭 I’m currently working on PancakeSwap Clone as project for Develhope
 - 🌱 I’m currently learning Angular and RxJS
 - 👯 I’m looking to collaborate on any project!
