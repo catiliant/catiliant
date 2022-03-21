@@ -2,7 +2,7 @@
   <img src="https://github.com/catiliant/catiliant/blob/main/githubv2gif.gif" alt="Kathleen catiliant front-end developer"><br>
   <a href="https://discordapp.com/users/548656249856720906/"> <img src="https://github.com/catiliant/catiliant/blob/main/discord-social.png"></a> <a href="https://www.linkedin.com/in/gail-kathleen-aranzaso/"> <img src="https://github.com/catiliant/catiliant/blob/main/linkedin-social.png"></a>
   <a href="mailto: kathleenaranzaso@gmail.com"> <img src="https://github.com/catiliant/catiliant/blob/main/gmail-social.png"></a><br>
- I'm Kathleen, but everyone calls me Kat (pronounced like the meow meow animal in english 🐱). I use she/her, but any pronouns are fine. ❣️ Currently, I'm a Front-End Developer Junior based in Italy 🇮🇹. My main goal is to become a Full-Stack Dev, acquire experience and responsibilities, and be able one day to manage a team and work on ambitious projects. 👩‍💻 I like to work on personal side projects during my free time. 👩‍🎨 ther than coding, I love drawing, editing, and graphics. 🎨<br>
+ I'm Kathleen, but everyone calls me Kat (pronounced like the same animal in english 🐱). I use she/her, but any pronouns are fine. ❣️ Currently, I'm a Front-End Developer Junior based in Italy 🇮🇹. My main goal is to become a Full-Stack Dev, acquire experience and responsibilities, and be able one day to manage a team and work on ambitious projects. 👩‍💻 I like to work on personal side projects during my free time. 👩‍🎨 ther than coding, I love drawing, editing, and graphics. 🎨<br>
 </p>
 
 <h2 align="center"> <img src="https://64.media.tumblr.com/f6e415ddcd5b972ad134f71e4ca48164/tumblr_inline_mxterpXkQa1rrry1n.gif"> About me</h2>
